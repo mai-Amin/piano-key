@@ -1,0 +1,5 @@
+note   keyboard key
+C4         A
+C#4        w
+D4         s
+D#4        E
