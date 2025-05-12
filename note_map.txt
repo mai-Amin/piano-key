@@ -3,3 +3,11 @@ C4         A
 C#4        w
 D4         s
 D#4        E
+E4         D
+F4         F
+F#4        T
+G4         G
+G#4        Y
+A4         H
+A#4        U
+B4         J
